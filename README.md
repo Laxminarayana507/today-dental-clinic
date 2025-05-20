@@ -5,11 +5,6 @@ This is a modern, responsive, ReactJS-based front-end for a dental clinic websit
 
 ---
 
-## 🚀 Live Demo
-
-[👉 View Live Demo](#) *(Add your Netlify/Vercel/GitHub Pages link here)*
-
----
 
 ## 📌 Project Features
 
