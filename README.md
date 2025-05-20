@@ -57,15 +57,23 @@ src/
 
 ### Home Page
 > Hero image, introduction, and Book Appointment CTA
+![image](https://github.com/user-attachments/assets/10b78387-3ab6-40d6-9989-b499d258fc5f)
+
 
 ### About Page
 > 3-paragraph content + team image
+![image](https://github.com/user-attachments/assets/c4b22e2d-5f10-4d3e-b238-4150eb4563e3)
+
 
 ### Services Page
 > 6 service cards with icons and descriptions
+![image](https://github.com/user-attachments/assets/6254c165-6c9f-434e-a7eb-fd42e631e231)
+
 
 ### Contact Page
 > Contact form with Axios POST + Google Maps
+![image](https://github.com/user-attachments/assets/a9e97fc6-44a8-47c7-8c45-7f6ff968d061)
+
 
 ---
 
